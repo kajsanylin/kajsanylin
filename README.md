@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kajsanylin
-- 🌱 I’m currently learning React, Vue, JS,
+- 🌱 I’m currently learning Full Stack Web development. 
 
 
 <!---
